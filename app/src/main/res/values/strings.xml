@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assign Two</string>
+    <string name="lbl_chk_agree">I agree to <u>Terms of Services</u></string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_phone_number">Phone Number</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_confirm_password">Confirm Password</string>
+    <string name="lbl_sign_up">Sign Up</string>
+    <string name="lbl_continue">Continue</string>
+    <string name="lbl_detail">It teases the appearance of Palpatine, an epic face-off between Rey and Kylo Ren, as well as a scene with the late Carrie Fisher as General Leia Organa.</string>
+</resources>
